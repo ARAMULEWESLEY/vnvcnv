@@ -122,7 +122,7 @@ nest-asyncio==1.5.5
 networkx==2.6.3
 notebook==6.4.11
 npttf2utf==0.3.7
-numpy==1.22.3
+numpy==1.21.6
 oauthlib==3.2.0
 opencv-contrib-python==4.5.5.64
 opencv-python==4.5.5.64
